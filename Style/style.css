@@ -1,35 +1,112 @@
-header{
+/******* GESTION PAGE *******/
+
+#bloc_page /* Englobe la totalité de la page */
+{
+  width: 980px;
+  font-family : 'Segoe UI',sans-serif;
+}
+
+body
+{
+  background-color: #AFAAB9;
+  margin: auto;
+  color: white;
+  width: 980px;
+  font-family : 'Segoe UI',sans-serif;
+}
+
+/*******  GESTION BANNIERE *******/
+header
+{
+  	
+}
+
+/******* GESTION DU CORPS DE PAGE *******/
+
+section
+{
+
 
 }
 
-body{
+/******* GESTION PIED DE PAGE  *******/
 
-}
-
-footer{
+footer
+{
 	
 }
 
-h1{
+footer a:hover
+{
+	color: black;
+	background-color: #B9CFD4;
+}
+
+/******* GESTION DES ELEMENTS PRINCIPAUX  *******/
+
+h1 h2
+{
+	text-transform: uppercase;
+}
+
+h1
+{
+  font-size: 2.0em;
+}
+
+h2
+{
+	font-size: 1.4em;
+}
+
+nav
+{
+  	border: 1px solid black;
+  	width: 10%;
+  	position: fixed;
+  	left: 0;
+}
+
+nav li
+{
+	list-style: none;
+	border: 1px solid black;
+	width: 100%;
+	left: 0;
+}
+
+nav li:hover
+{
+	background-color: #b9cfd4;
+	color: black;
+}
+
+nav ul{
+	width: 100%;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+p
+{
+	font-size: 1.2em;
+}
+
+a
+{
 
 }
 
-h2{
+/******* à modifier *******/
 
+#Definition
+{
+  background-color: #B48291
 }
 
-a{
-
+#Example
+{
+  background-color: #B48291
 }
 
-p{
-
-}
-
-#Definition{
-
-}
-
-#Example{
-
-}
