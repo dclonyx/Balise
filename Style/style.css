@@ -64,7 +64,8 @@ h2
 
 nav
 {
-  	border: 1px solid black;
+  	border: 1px solid #B48291;
+  	border-radius: 3px;
   	width: 10%;
 	float: left;
 }
@@ -72,7 +73,6 @@ nav
 nav a li
 {
 	list-style: none;
-	border: 1px solid black;
 	width: 100%;
 	left: 0;
 	color: white;
@@ -108,6 +108,7 @@ a
   background-color: #B48291;
   padding: 2%;
   margin: 1%;
+  border-radius: 5px;
 }
 
 #Example
@@ -115,6 +116,7 @@ a
   background-color: #B48291;
   padding: 2%;
   margin: 1%;
+  border-radius: 5px;
 }
 
 #active {
