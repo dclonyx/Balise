@@ -12,11 +12,15 @@ body
 /*******  GESTION BANNIERE *******/
 header
 {
-	display: flex;
-	text-align: auto;
+	text-align: center;
 	padding: auto;
   	width: 100%;
 	margin: auto;
+}
+
+header img
+{
+	display: flex;
 }
 
 .logo_site_size
