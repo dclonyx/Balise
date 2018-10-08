@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="599.21319"
-     inkscape:cy="485.57551"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="674.88584"
+     inkscape:cy="828.75572"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -269,6 +269,14 @@
        id="path892"
        inkscape:connector-curvature="0"
        transform="scale(0.26458333)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2417"
+       width="45.168152"
+       height="7.7485118"
+       x="65.767853"
+       y="178.69345"
+       ry="0.56696504" />
     <path
        style="opacity:1;fill:#afaab9;fill-opacity:1;stroke:#000000;stroke-width:1.01015258;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 178.67267,690.56483 v -16.66751 h 298.50008 298.50007 v 16.66751 16.66752 H 477.17275 178.67267 Z"
@@ -368,6 +376,14 @@
          x="10.772322"
          y="20.132439"
          style="stroke-width:0.26458332;fill:#ffffff;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Logo</tspan></text>
+    <rect
+       style="opacity:1;fill:#b9cfd4;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2421"
+       width="45.168152"
+       height="7.7485046"
+       x="65.767853"
+       y="178.69345"
+       ry="0.56696504" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
@@ -378,7 +394,9 @@
          id="tspan943"
          x="68.413696"
          y="184.1741"
-         style="stroke-width:0.26458332;fill:#ffffff;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Page suivante/precedente</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><tspan
+   style="fill:#000000"
+   id="tspan2423">Page suivante</tspan>/precedente</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
