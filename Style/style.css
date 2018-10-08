@@ -1,11 +1,5 @@
 /******* GESTION PAGE *******/
 
-#bloc_page /* Englobe la totalité de la page */
-{
-  width: 980px;
-  font-family : 'Segoe UI',sans-serif;
-}
-
 body
 {
   background-color: #AFAAB9;
@@ -18,9 +12,19 @@ body
 /*******  GESTION BANNIERE *******/
 header
 {
-  	width: 100%;
+	display: flex;
 	text-align: center;
+	padding: auto;
+  	width: 100%;
+	border: 1px solid black;
+	margin: auto;
 }
+
+.logo_site_size
+{
+	width: 150px;
+}
+
 
 /******* GESTION DU CORPS DE PAGE *******/
 
@@ -30,6 +34,19 @@ section
 	width: 88%;
 
 }
+
+section img
+{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#img_position
+{
+	text-align: center;
+}
+
+
 
 /******* GESTION PIED DE PAGE  *******/
 
@@ -74,6 +91,7 @@ nav
 nav a li
 {
 	list-style: none;
+	border: 1px solid black;
 	width: 100%;
 	left: 0;
 	color: white;
@@ -110,6 +128,7 @@ a
   padding: 2%;
   margin: 1%;
   border-radius: 5px;
+  height: 400px;
 }
 
 #Example
@@ -118,6 +137,7 @@ a
   padding: 2%;
   margin: 1%;
   border-radius: 5px;
+  height: 500px;
 }
 
 #active {

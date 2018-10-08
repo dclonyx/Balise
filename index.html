@@ -8,8 +8,13 @@
 
     <body>
         <header>
-            <img src="" alt="logo site balise">
-            <H1>Lexique html</H1>
+            <div id="header">
+                <img src="Images/logo_site.png" alt="logo site balise" class="logo_site_size">
+            </div>
+
+            <div id="header">
+                <H1>Lexique html</H1>
+            </div>
         </header>
 
         <nav>
@@ -44,11 +49,12 @@
                 <a href="./Pages/tr.html"><li>tr</li></a>
                 <a href="./Pages/u.html"><li>u</li></a>
                 <a href="./Pages/ul.html"><li>ul</li></a>
+                <a href="./index.html"><li id="active">Menu</li></a>
             </ul>
         </nav>
 
         <section>
-            <article>
+            <article id="Definition">
                 <p>Liens :</p>
 
                 <a href="https://github.com/dclonyx/Balise" target="_blank">Github du projet</a><br>
@@ -58,18 +64,21 @@
                 <a href="https://www.w3schools.com/" target="_blank">Sources</a><br>                     
             </article>
 
-            <article>
+            <article id="Example">
                 <p>Fait par :</p>
 
-                <img src="./Images/JP.png" alt="logo" width="50px" height="50px"/>
-                <img src="./Images/E.png" alt="logo" width="50px" height="50px"/>
-                <img src="./Images/F.png" alt="logo" width="50px" height="50px"/>
-                <img src="./Images/T.png" alt="logo" width="50px" height="50px"/>
+                <div id="img_position">
+                    <img src="./Images/JP.png" alt="logo" width="50px" height="50px"/>
+                    <img src="./Images/E.png" alt="logo" width="50px" height="50px"/>
+                    <img src="./Images/F.png" alt="logo" width="50px" height="50px"/>
+                    <img src="./Images/T.png" alt="logo" width="50px" height="50px"/>
+                </div>
             </article>
         </section>
 
         <footer>
-            
+            <a href="./pages/ul.html">Page précédente</a>
+            <a href="./pages/!.html">Page suivante</a>
         </footer>
     </body>
 </html>
