@@ -12,11 +12,9 @@ body
 /*******  GESTION BANNIERE *******/
 header
 {
-	display: flex;
 	text-align: center;
 	padding: auto;
   	width: 100%;
-	border: 1px solid black;
 	margin: auto;
 }
 
@@ -54,6 +52,7 @@ footer
 {
 	width: 88%;
 	text-align: center;
+	clear: both;
 }
 
 footer a:hover
@@ -91,7 +90,6 @@ nav
 nav a li
 {
 	list-style: none;
-	border: 1px solid black;
 	width: 100%;
 	left: 0;
 	color: white;
@@ -137,7 +135,7 @@ a
   padding: 2%;
   margin: 1%;
   border-radius: 5px;
-  height: 500px;
+  height: auto;
 }
 
 #active {
