@@ -18,7 +18,8 @@ body
 /*******  GESTION BANNIERE *******/
 header
 {
-  	
+  	width: 100%;
+	text-align: center;
 }
 
 /******* GESTION DU CORPS DE PAGE *******/
@@ -34,7 +35,8 @@ section
 
 footer
 {
-	
+	width: 88%;
+	text-align: center;
 }
 
 footer a:hover
@@ -103,12 +105,16 @@ a
 
 #Definition
 {
-  background-color: #B48291
+  background-color: #B48291;
+  padding: 2%;
+  margin: 1%;
 }
 
 #Example
 {
-  background-color: #B48291
+  background-color: #B48291;
+  padding: 2%;
+  margin: 1%;
 }
 
 #active {
