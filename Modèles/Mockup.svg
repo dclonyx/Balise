@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="554.91143"
-     inkscape:cy="671.45108"
+     inkscape:zoom="1.4"
+     inkscape:cx="476.62068"
+     inkscape:cy="732.31941"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -193,7 +193,7 @@
        transform="scale(0.26458333)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="58.775295"
        y="21.833332"
        id="text866"><tspan
@@ -201,7 +201,7 @@
          id="tspan864"
          x="58.775295"
          y="21.833332"
-         style="stroke-width:0.26458332">Titre</tspan></text>
+         style="stroke-width:0.26458332;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Titre</tspan></text>
     <path
        style="opacity:1;fill:#f9dec9;fill-opacity:1;stroke:#000000;stroke-width:0.71428573;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 16.186499,446.68717 V 185.97288 H 89.757928 163.32936 V 446.68717 707.40145 H 89.757928 16.186499 Z"
@@ -235,7 +235,7 @@
        transform="scale(0.26458333)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="56.79092"
        y="22.494791"
        id="text880"><tspan
@@ -243,7 +243,7 @@
          id="tspan878"
          x="56.79092"
          y="22.494791"
-         style="stroke-width:0.26458332;fill:#afaab9;fill-opacity:1">Titre</tspan></text>
+         style="stroke-width:0.26458332;fill:#afaab9;fill-opacity:1;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Titre</tspan></text>
     <path
        style="opacity:1;fill:#afaab9;fill-opacity:1;stroke:#000000;stroke-width:1.01015258;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 17.048263,446.61299 V 187.00379 H 89.779246 162.51023 V 446.61299 706.2222 H 89.779246 17.048263 Z"
@@ -315,7 +315,7 @@
        ry="0.56696504" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#b9cfd4;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#b9cfd4;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="10.394345"
        y="78.151787"
        id="text925"><tspan
@@ -323,10 +323,10 @@
          id="tspan923"
          x="10.394345"
          y="78.151787"
-         style="stroke-width:0.26458332;fill:#000000;fill-opacity:1">Hover</tspan></text>
+         style="stroke-width:0.26458332;fill:#000000;fill-opacity:1;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Hover</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#radialGradient2411);stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#radialGradient2411);stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="63.5"
        y="27.691963"
        id="text929"><tspan
@@ -334,10 +334,10 @@
          id="tspan927"
          x="63.5"
          y="27.691963"
-         style="stroke-width:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round">Titre</tspan></text>
+         style="stroke-width:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Titre</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="54.995537"
        y="59.819939"
        id="text933"><tspan
@@ -345,10 +345,10 @@
          id="tspan931"
          x="54.995537"
          y="59.819939"
-         style="stroke-width:0.26458332;fill:#ffffff;fill-opacity:1">Definition</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Definition</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="55.751488"
        y="122.56399"
        id="text937"><tspan
@@ -356,10 +356,10 @@
          id="tspan935"
          x="55.751488"
          y="122.56399"
-         style="stroke-width:0.26458332;fill:#ffffff">Exemple</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Exemple</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="10.772322"
        y="20.132439"
        id="text941"><tspan
@@ -367,10 +367,10 @@
          id="tspan939"
          x="10.772322"
          y="20.132439"
-         style="stroke-width:0.26458332;fill:#ffffff">Logo</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Logo</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="68.413696"
        y="184.1741"
        id="text945"><tspan
@@ -378,6 +378,6 @@
          id="tspan943"
          x="68.413696"
          y="184.1741"
-         style="stroke-width:0.26458332;fill:#ffffff">Page suivante/precedente</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Page suivante/precedente</tspan></text>
   </g>
 </svg>
