@@ -108,6 +108,11 @@ nav a li:hover
 	color: black;
 }
 
+nav p
+{
+	text-align: center;
+}
+
 nav ul{
 	width: 100%;
 	text-align: center;
