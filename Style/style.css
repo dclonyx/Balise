@@ -25,7 +25,8 @@ header
 
 section
 {
-
+	float: right;
+	width: 88%;
 
 }
 
@@ -63,8 +64,7 @@ nav
 {
   	border: 1px solid black;
   	width: 10%;
-  	position: fixed;
-  	left: 0;
+	float: left;
 }
 
 nav li
@@ -73,6 +73,11 @@ nav li
 	border: 1px solid black;
 	width: 100%;
 	left: 0;
+}
+
+nav li:last-child{
+	padding-top: 5em;
+	padding-bottom: 5em;
 }
 
 nav li:hover
@@ -95,7 +100,17 @@ p
 
 a
 {
+	text-decoration: none;
+}
 
+a:link
+{
+	color: white;
+}
+
+a:visited
+{
+	color: black;
 }
 
 /******* à modifier *******/
@@ -110,3 +125,6 @@ a
   background-color: #B48291
 }
 
+#active {
+	background-color: #F9DEC9;
+}
