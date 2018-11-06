@@ -11,39 +11,9 @@
     	<h1>&lt header &gt</h1>
     </header>
     
-    <nav>
-      <ul>
-        <a href="./!.html"><li>!</li></a>
-        <a href="./a.html"><li>a</li></a>
-        <a href="./b.html"><li>b</li></a>
-        <a href="./body.html"><li>body</li></a>
-        <a href="./br.html"><li>br</li></a>
-        <a href="./div.html"><li>div</li></a>
-        <a href="./form.html"><li>form</li></a>
-        <a href="./H.html"><li>h</li></a>
-        <a href="./head.html"><li>head</li></a>
-        <a href="./header.html"><li id="active">header</li></a>
-        <a href="./hr.html"><li>hr</li></a>
-        <a href="./html.html"><li>html</li></a>
-        <a href="./i.html"><li>i</li></a>
-        <a href="./img.html"><li>img</li></a>
-        <a href="./input.html"><li>input</li></a>
-        <a href="./li.html"><li>li</li></a>
-        <a href="./link.html"><li>link</li></a>
-        <a href="./meta.html"><li>meta</li></a>
-        <a href="./p.html"><li>p</li></a>
-        <a href="./pre.html"><li>pre</li></a>
-        <a href="./select.html"><li>select</li></a>
-        <a href="./table.html"><li>table</li></a>
-        <a href="./td.html"><li>td</li></a>
-        <a href="./textarea.html"><li>textarea</li></a>
-        <a href="./title.html"><li>title</li></a>
-        <a href="./tr.html"><li>tr</li></a>
-        <a href="./u.html"><li>u</li></a>
-        <a href="./ul.html"><li>ul</li></a>
-        <a href="../index.html"><li class="menu">Menu</li></a>
-      </ul>
-    </nav>
+    <?php
+      include '../Php/menu.php';
+    ?>
     <section>
       <div id="Definition">
       <h2>Définition :</h2>
